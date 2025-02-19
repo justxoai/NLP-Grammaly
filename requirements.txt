@@ -1,0 +1,8 @@
+transformers
+datasets
+evaluate
+rouge
+torch
+pytorch-lightning
+pytorch-ignite
+sentencepiece
