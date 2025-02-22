@@ -1,8 +1,6 @@
 transformers
-datasets
 evaluate
+rouge_score
 rouge
 torch
-pytorch-lightning
-pytorch-ignite
-sentencepiece
+
