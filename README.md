@@ -25,7 +25,7 @@ To set up the project, follow these steps:
    ```bash
    pip install -r requirements.txt
    ```
-3. If using Google Colab, open the notebook: [Open in Colab](https://colab.research.google.com/github/justxoai/NLP-Grammaly/blob/main/GrammarCorrection.ipynb)
+3. If using Google Colab, open the notebook: [Open in Colab](https://colab.research.google.com/github/justxoai/NLP-Grammaly/blob/main/NLP_GrammarAutocorrector.ipynb)
 
 ## Usage
 
